@@ -62,7 +62,7 @@ dependencies {
     // Dependency on local binaries
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     // jetbrains stdlib
-    implementation "org.jetbrains.kotlin:kotlin-stdlib:1.7.10"
+    implementation "org.jetbrains.kotlin:kotlin-stdlib:1.7.20"
 
     // Coordinator Layout
     implementation "androidx.coordinatorlayout:coordinatorlayout:1.2.0"
