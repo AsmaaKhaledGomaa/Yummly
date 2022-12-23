@@ -1,6 +1,4 @@
-package com.asmaa.yummly
-
-
+package com.asmaa.yummly.models
 import com.google.gson.annotations.SerializedName
 
 data class ExtendedIngredient(
